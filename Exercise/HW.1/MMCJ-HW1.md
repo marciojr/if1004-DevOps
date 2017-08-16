@@ -25,8 +25,8 @@ link ScreenCast: https://github.com/marciojr/if1004-DevOps/blob/master/Exercise/
 * In your own words, explain the difference between continuous integration,continuous delivery, and continuous deployment.
  
 >Continuous Integration - A ideia de integração contínua diz respeito ao modelo de desenvolvimento onde é importante se ter integração rápida e testes, onde no caso da integração contínua são os testes unitários, acelerando o processo de teste sobre as implatações todos, garantindo o funcionamento, possibilitando a descoberta de erros mais cedo e permitindo atualizações mais rápidas do produto.
- Continuous Delivery - São algumas práticas ligadas ao processo, onde através delas é possível testar o comportamento das funções desenvolvidas(utilizando BDD), garantindo,através dessas, que o que foi implementado possa ser adicionado no ambiente de produção.
- Continuous Deployment - Esse método faz uso de processos automatizados para a publicação da implementação no ambiente de produção, dando um ganho na velocidade, isso, se os testes feitos nos outros processos, assim o permitirem.
+     Continuous Delivery - São algumas práticas ligadas ao processo, onde através delas é possível testar o comportamento das funções desenvolvidas(utilizando BDD), garantindo,através dessas, que o que foi implementado possa ser adicionado no ambiente de produção.
+     Continuous Deployment - Esse método faz uso de processos automatizados para a publicação da implementação no ambiente de produção, dando um ganho na velocidade, isso, se os testes feitos nos outros processos, assim o permitirem.
 
 * How does DevOps team model (e.g., site reliability engineer) differ than a a NoOps team model (e.g. Netflix team)? What differences in architecture allow for a NoOps model?
 
