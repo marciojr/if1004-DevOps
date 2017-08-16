@@ -4,7 +4,7 @@
 
 link: https://github.com/marciojr/if1004-DevOps/blob/master/Exercise/HW.1/Slack_Perfil.jpeg
 
-![](ttps://github.com/marciojr/if1004-DevOps/blob/master/Exercise/HW.1/Slack_Perfil.jpeg)
+![](https://github.com/marciojr/if1004-DevOps/blob/master/Exercise/HW.1/Slack_Perfil.jpeg)
 
 ### Git Tutorial Screenshot
 
