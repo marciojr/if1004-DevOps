@@ -1,0 +1,5 @@
+## HomeWork 6 - DevOps
+
+### MMCJ - mmcj@cin.ufpe.br
+
+> Este artigo nos trás uma visão sobre o mundo do building, trazendo um estudo em uma base de 26 milhões de builds, análisando caracteristicas como as causas dos erros de building, seja por erro de compilação, erros de dependência ou outros possíveis erros, a quantidade, a frequência e as resoluções desses erros no build. Dentro da análise do assunto, o artigo nos tráss essas informações destrinchadas, citando em paragrafos, a frequência com que esses erros ocorrem, o porquê deles ocorrerem e quanto tempo se leva para resolver esses bugs. O estudo busca identificar essas caracteristicas afim de buscar alguma solução que agilize no processo de correção, assim como anteriormente, na busca por evitar que o build gere erro, buscando criar ferramentas para auxiliarem aos desenvolvedores, para melhorar o processo de identificação e o tornando mais fácil. Por fim , o estudo pode ser usado também para entender como os desenvolvedores dão build e posteriormente para guiar o processo de refinamento desse processo, como na criação de ferramentas, como falado, melhorando a produtividade do desenvolvimento. 
